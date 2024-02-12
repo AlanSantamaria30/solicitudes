@@ -1,0 +1,17 @@
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/entity/Promotor.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/configuration/SwaggerConfig.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/model/EmpresaRequest.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/repository/EmpresaRepository.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/service/SolicitudService.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/repository/PromotorRepository.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/entity/Cliente.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/controller/SolicitudesController.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/SantamariaApplication.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/model/SolicitudInfo.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/repository/ClienteRepository.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/model/SolicitudRequest.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/model/ClienteRequest.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/entity/Empresa.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/entity/Solicitud.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/model/PromotorRequest.java
+/Users/alansantamaria/Downloads/santamaria/src/main/java/com/solicitudes/santamaria/repository/SolicitudRepository.java
